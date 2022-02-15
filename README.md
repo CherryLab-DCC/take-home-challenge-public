@@ -58,5 +58,5 @@ We are looking for problem-solving skills that show you can tackle real-world te
 
 ## Submission:
 
-Create a branch off this git repository and submit your solution by creating a pull request.
+Create a branch (you will need to sendus your git login) off this git repository and submit your solution by creating a pull request.
 
